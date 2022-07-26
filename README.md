@@ -34,4 +34,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Eddy Gonzalez oswaldo4495@gmail.com
+* Eddy Gonzalez eddyog44@gmail.com
